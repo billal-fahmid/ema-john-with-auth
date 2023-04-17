@@ -1,16 +1,32 @@
-.cart{
+.cart {
     background: #FF99004D;
     padding: 25px;
     position: sticky;
-    top:0;
+    top: 0;
 
 }
-.cart h4{
+
+.cart h4 {
     font-size: 25px
 }
-.cart p{
+
+.cart p {
     font-size: 17px;
 }
-.cart h6{
+
+.cart h6 {
     font-size: 21px;
+}
+
+.btn-clear-cart {
+    width: 90%;
+    margin: 10px auto;
+    height: 56px;
+    font-size: 21px;
+    background: #FF3030;
+    border-radius: 4px;
+    color: wheat;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
