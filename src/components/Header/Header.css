@@ -18,3 +18,11 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.text-white{
+    color: white;
+    margin: 0 20px;
+}
+.text-white span{
+    color: orangered;
+    font: bold;
+}
